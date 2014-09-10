@@ -15,7 +15,7 @@ nav a {
     font-size: 50px;
 }
 img {
-    width: 345px;
+    width: 700px;
     height: auto;
 }
 h1 {
@@ -26,9 +26,25 @@ h1 {
     padding-left: 70px;
     margin-right: 1350px;
 }
+/* changing the background image  */
 body {
- background-image: url(http://cdn.wallwuzz.com/uploads/wallpaper-wallpapers-wolfenstein-background-gamer-designs-schlampe-gamersbin-wallwuzz-hd-wallpaper-14538.)
+ background-image: url(http://www.myfreewallpapershub.com/wp-content/uploads/2014/04);
+ background-size: cover;
 }
 article {
     color: whitesmoke
+}
+#tech{
+    background-image: url(http://www.ibackgroundwallpaper.com/wp-content/uploads/2014/02/colorful-space.jpg);
+    background-size: cover;
+}
+.center{
+    text-align: center;
+}
+font{
+    font-style: oblique
+        
+}
+#pro{
+    
 }
